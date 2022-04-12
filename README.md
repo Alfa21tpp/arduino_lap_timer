@@ -1,7 +1,7 @@
 # arduino_lap_timer
-based on the original project Personal Lap Timer by Duane B. on rcarduino.blogspot.com
+based on the original project Personal Lap Timer by Duane B. on http://rcarduino.blogspot.com/
 
-
+```
 This is an Arduino project.
 
 ABOUT:
@@ -40,3 +40,4 @@ you have to customize getKeys() for:
 you can use a fifth button on your infrared remote control or an extra hardware push button.
 - RealLAP
 use a different device programmed with the "simple_ir_sender" sketch or something similar.
+```
