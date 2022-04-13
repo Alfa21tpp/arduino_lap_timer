@@ -27,6 +27,7 @@ If you attach a passive buzzer you can enjoy the "pressure" feature.
 or an old infrared remote control with at least 4 buttons
 
 ## USER INTERFACE:
+A very simple interface: ok to enter a mode, cancel to exit a mode and up/down to cycle through any options in a mode.
 - `OK` = enter a submenu / change an option / start a session
 - `CANCEL` = exit a submenu / stop a session
 - `UP` = go to the next element
