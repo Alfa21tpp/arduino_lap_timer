@@ -1,5 +1,5 @@
 # arduino_lap_timer
-based on the original project Personal Lap Timer by Duane B. on http://rcarduino.blogspot.com/
+based on the original arduino project "Personal Lap Timer" by Duane B. on http://rcarduino.blogspot.com/
 
 ```
 This is an Arduino project.
